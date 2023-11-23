@@ -1,4 +1,48 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+
+
+
+body{
+    background-color: white;
+    display: block;
+    margin: 8px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#navbar{
+    text-align: right;
+
+    
+}
+
 form {
     text-align: center;
+    display: block;
+    margin-top: 0em;
+    
+    
+}
+
+#logo{
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+#vyhled{
+    text-align: center;
+    margin: 15%;
+}
+
+section {
+    display: block;
+}
+input[type="text" i] {
+    border-radius: 10%;
+
 }
 
