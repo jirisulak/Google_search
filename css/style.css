@@ -1,8 +1,4 @@
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
-
 
 
 
@@ -15,7 +11,7 @@ body{
 
 #navbar{
     text-align: right;
-
+    color: black;
     
 }
 
@@ -30,19 +26,25 @@ form {
 #logo{
     font-size: 100px;
     text-align: center;
-    
+    margin-bottom: 2%;
 }
 
 #vyhled{
     text-align: center;
-    margin: 15%;
-}
-
-section {
+    margin: 8%;
     display: block;
 }
-input[type="text" i] {
-    border-radius: 10%;
 
-}
+
+#okno{
+    width: 550px;
+    height: 35px;
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 100px;
+}      
+
+
+
 
